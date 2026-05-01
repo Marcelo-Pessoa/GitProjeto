@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testado na branch
+=======
+Esse é o teste original.
+>>>>>>> 1c0d0c57cfc146272c229afe9cfc58773bd9efad
